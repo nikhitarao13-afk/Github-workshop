@@ -1,2 +1,2 @@
 # Github-workshop
-Nikhita Rao
+Author -Nikhita Rao
